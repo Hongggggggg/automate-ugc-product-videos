@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI UGC Video Automation"
+  short_description: "Batch reviewed TikTok UGC prompts and Seedance videos"
+  default_prompt: "Use $automate-ugc-product-videos to prepare and review AI product videos from my XLSX workbook."
+policy:
+  allow_implicit_invocation: true

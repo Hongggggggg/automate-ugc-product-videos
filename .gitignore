@@ -1,0 +1,18 @@
+.env
+.runtime/
+outputs/
+ai-video-output/
+*.backup-*.xlsx
+*.xlsx.tmp
+
+# Local reference, test, and scratch artifacts
+output/
+test/
+tmp/
+
+# Generated workflow state and media
+*.sqlite
+*.sqlite-*
+*.mp4
+*.wav
+*.tmp.inspect.ndjson
